@@ -59,8 +59,8 @@ jobs:
 
 - name: deploy-review
   plan:
-  - get: pal-tracker
   - get: pal-tracker-artifacts
+  - get: pal-tracker
     trigger: true
     passed: [build]
   - put: review-deployment
@@ -72,8 +72,8 @@ jobs:
 
 - name: deploy-production
   plan:
-  - get: pal-tracker
   - get: pal-tracker-artifacts
+  - get: pal-tracker
     passed: [deploy-review]
   - put: production-deployment
     params:
