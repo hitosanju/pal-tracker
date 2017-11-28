@@ -1,4 +1,4 @@
-cf-api-url: CF_API_URL
+cf-api-uri: CF_API_URL
 cf-username: CF_USERNAME
 cf-password: CF_PASSWORD
 cf-org: CF_ORG
