@@ -1,0 +1,33 @@
+cf-api-url: CF_API_URL
+cf-username: CF_USERNAME
+cf-password: CF_PASSWORD
+cf-org: CF_ORG
+github-repository: git@github.com:hitosanju/pal-tracker.git
+github-private-key: |
+                -----BEGIN RSA PRIVATE KEY-----
+                MIIEogIBAAKCAQEAofdfN6egRjbQsZCFEuuz/wnH9N/CJg91mFg1qig6hf2LXxlb
+                2L3MHL1Xglonjf3ggV5ypCJS8vaDtzWpTAUQ/ZFt4xuXWfta+GVTNE9lQEzqFn6N
+                aeeQNmZ1dyj2r+V+LDUO/2ch3vD0ChU3yU58PtGH9qtpcQFtWVCXGEySJ3SBXdx8
+                7CDDS/phclzNeg/vSoeOhOkBbbgBDZS3QQgNZePIo9hVBQwSBieozPsaXrYpbpH+
+                TGB/Vuymh7QKLdtUbFNW6mZr+erjvUSfskR0EYODwbHd93fo81UntfGHfBcqqM/s
+                nrIdPYj+DmIDarXVU67Io/zenQGBO/11iGgNMwIDAQABAoIBAGl0FGy6GSJeIjba
+                L6qICGOvTJ9k6JW7Twdnt1kYZDJFSG8cpa5StQipRsa6SDKs73WLtvyi1HsYgd3R
+                dG7ohY1zGKbbmgmeHDbKUggnAXeCHI+UyiIAAOdKgoSZCTSxKRtDWIZ18ZmkLGA8
+                PFw3W7HS3sF+DWLkWPvj+tx5Tlec/AFQDT20SjWDRM/06DOgMl7SreCN0OP/9uYz
+                O0tvrzopN+ncqdSakcBAkdIo5QCMHX4cy2pmpKTUPzLS37HTeTP7/6Tp/raE+IPQ
+                VGDuuSsvN7gFvA6rfwb5uWnEqRe+MMEuYSI6JYdA1FH20Pjt6AWVX8Bj0qRoi7Ep
+                zDcZ72ECgYEA1X36ZBDwULKuCJROFpx/84G6JFp5+EpA7mwd9FEZ7JJvDc1CCaXL
+                q/oa0XRUyd5CH5uz2lyjAIkAMeisVoPderzPEijbvO/SXfvVZuPq3u3UHs9YsOuj
+                6X1yqGACRjS+IjV+2fMLYpaCYRQ45s8L/GIyZZ8Zd4/xPI4GTIns6tsCgYEAwjcL
+                Rkk/Wduh1qiB4V/9Zyt9B169TxUJgQJU4RAYA1I8QwVnanphCLB+0eHg71Yyp73z
+                nxyXpN5bZhJpopK6/EIXCxhVRzVdxl2oPYOc9/z8X/i8MRZj1RzrUHt9wC2pfuiy
+                XARjf/TlyUwF/CDMvzt829bNbRK7YuUarlu2eokCgYAaNDhDiAC3JvdNfkaHZ/Yc
+                gVPDmodV/mcx3HtgvYOdEewnmYX9gSgal7wq8Uhm7qzXDFlq9+vZ6PbpKVHd3JmW
+                sw4HgJRYAGeluX9b/aWabz6V+YU9Ue7wfcFRAVfGHjsoH8DOJ5LCKw8ds0m4qrkh
+                5TuiVYDeuAA4GoaTZmp5+QKBgBy3OsmHpwBIQyOUArAqGzOX8IKYdXEt8RvMFnS4
+                hnRnQlW+hM3vjk1Um0u5FCMPIao/obfS6HEOF4F+E3RgMZl+xB112ZYPw+/ChU+j
+                GCBqnX4rLtgrMVOfVQOvXqZ9meQTz9tfIr8WnKsovHHM/7j+uLVgizsnW+GBcnJ5
+                SP/RAoGALp8JnLmb+5Xc+nCRxjeIc1/8ceDYHTnL0T6qqk/MS7Zuo66f+rQ26gpb
+                1AgMu/pJGUkwAlSWa07IqaGRYh1dQAQ9TX7mAYnXP8C7ZvQbnzx/tPMXIOGbr/N4
+                FsnpvoT3CvgUsHfbnS990ctgMmq8anh7agjGuM1XpIkZiqW+WL4=
+                -----END RSA PRIVATE KEY-----
