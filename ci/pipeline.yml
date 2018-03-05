@@ -33,6 +33,7 @@ resources:
     password: {{cf-password}}
     organization: {{cf-org}}
     space: review
+    skip_cert_check: true
 
 - name: production-deployment
   type: cf
@@ -42,6 +43,7 @@ resources:
     password: {{cf-password}}
     organization: {{cf-org}}
     space: production
+    skip_cert_check: true
 
 jobs:
 - name: build
