@@ -21,6 +21,4 @@ public class WelcomeController{
         return _greeting;
     }
 }
-
-//sample edit
 //sample edit
